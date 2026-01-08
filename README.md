@@ -1,5 +1,7 @@
 # Playwright Automation for Transax
 
+This repository stores the code for Transax Automation using Playwright tool.
+
 This project contains Playwright automation tests for Transax login functionality.
 
 ## Setup
